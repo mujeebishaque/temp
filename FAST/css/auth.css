@@ -1,0 +1,57 @@
+body  {
+	animation-duration: 8s;
+	scroll-behavior: smooth;
+}
+.intro-block  {
+	margin-top: 50px;
+}
+.navbar_dark  {
+	background-color: #0D0C0C;
+	color: aliceblue;
+	/*text-shadow: 1px 2px 2px white;*/
+	font-family: 'Cinzel Decorative', cursive;
+	font-size: 56px;
+	padding: 80px;
+	/*box-shadow: 0px 1px 2px 1px black;*/
+}
+.register  {
+	background: url(../images/wooden1.jpg) repeat;
+	padding: 30px;
+}
+.about-me  {
+		padding:  20px 40px 10px 40px;
+		background-color: #18161F;
+}
+.right-text {
+	font-size: 20px;
+	padding:  0px 10px 10px 0px;
+	color: white;
+}
+.left-text {
+	font-size: 20px;
+	padding:  0px 10px 10px 0px;
+	color: white;
+}
+.sub-heading {
+	font-family: 'courier new', sans-serif;
+	font-weight: 700;
+	font-size: 26px;
+	padding: 20px 5px 25px 5px;
+	color: #FFFFFF;
+}
+.title {
+	color: white;
+	font-weight: 700;
+	padding-left: 5px;
+	font-size: 20px;
+}
+.one_title {
+	color: white;
+	font-weight: 700;
+	padding-left: 5px;
+}
+.more-about-me  {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 16px;
+	color: white;
+}

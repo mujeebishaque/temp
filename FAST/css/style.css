@@ -1,0 +1,231 @@
+.main-panel  {
+	margin-top: 50px;
+	padding-top: 75px;
+	padding-bottom: 75px;
+}
+.size  {
+	height: 450px;
+	width: 100%;
+}
+.move-left  {
+	margin-left: -100px;
+	margin-bottom: 20px;
+	padding: 20px;
+}
+.padtop  {
+	margin-top: 10px;
+	padding: 10px;
+}
+.login-background  {
+    background-color: #1ABC9C;
+    padding: 20px 20px 40px 20px;
+}
+.better-font  {
+	font-family: 'Cinzel', serif;
+	font-size: 18px;
+	color: white;
+	padding: 0px 10px 0px 10px;
+	margin-right: 40px;
+}
+.navbar1  {
+	padding: 15px 10px 0px 10px;
+	color: white;
+	opacity: 0.8;
+	text-align: center;
+	background: black;
+	box-shadow: 0px 2px 3px 2px black;
+	margin-bottom: 30px;
+}	
+.intro-contact  {
+	background: url(../images/what.jpg) center center no-repeat fixed;
+	padding: 180px 10px 60px 10px;
+}
+.overlay  {
+	margin-top: 5px;
+	background-color: #E34043;
+	opacity: 0.6;
+	padding: -12px 20px 20px 30px;
+}
+.contact-button  {
+	margin-top: 35px;
+	padding: 10px 15px 10px 15px;
+}
+.links  {
+	font-family: 'Jura', sans-serif;
+	color: antiquewhite;
+	margin-left: 24px;
+}
+.btnn  {
+	box-shadow: 1px 2px 2px 2px black;
+	background: white;
+	color: black;
+}
+.intro-panel  {
+	background:url(../images/what.jpg) no-repeat center center fixed;
+	padding: 240px 10px 40px 10px;
+	margin-top: -50px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	box-shadow: 0px 2px 3px 3px black;
+	min-height: 690px;
+}
+.intro-text  {
+	margin-top: 70px;
+	font-family: 'Russo One', sans-serif;
+	/*font-family: 'Josefin Slab', serif;*/
+	font-size: 28px;
+	color: white;
+	text-shadow: 1px 2px 3px black;
+}
+.transparent-div  {
+	padding: 20px 30px 20px 30px;
+	background-color: black;
+	opacity: 0.6;
+	word-wrap: normal;
+}
+.intro-text2  {
+	margin-top: 5px;
+	font-family: 'Josefin Slab', serif;
+	font-size: 32px;
+	color: white;
+	text-shadow: 1px 2px 3px black;
+}
+.button-kz  {
+	box-shadow: 1px 3px 4px 2px black;
+	opacity: 0.8;
+	cursor: pointer;
+}
+.margin-top  {
+	margin-top: 40px;
+}
+.hr1  {
+	box-shadow: 1px 2px 1px 2px black;
+}
+.marketing-panel  {
+	box-shadow: 0px 0px 2px black;
+	padding: 30px 20px 50px 20px;
+	background-color: #2980B9;
+	color: white;
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 24px;
+	font-weight: 700;
+	opacity: 0.95;
+}
+.footer  {
+	background-color: #2C3E50;
+	padding: 20px 10px 20px 10px;
+	box-shadow: 1px 2px 2px 3px gray;
+	color: white;
+	font-family: 'Jura', sans-serif;
+}
+.footer-text  {
+	font-family: 'Jura', sans-serif;
+	font-size: 34px;
+	padding: 20px 10px 0px 10px;
+	color: white;
+	margin-bottom: 10px;
+}
+.footer-last  {
+	font-family: 'Jura', sans-serif;
+	box-shadow: 2px 2px 3px 3px black;
+	background-color: #0E0D0D;
+	color: white;
+	font-size: 18px;
+	padding: 25px 10px 20px 10px;
+}
+.map  {
+	padding: 10px;
+	background: #B4B4B4;
+}
+.pad-top  {
+	margin-top: 40px;
+	padding-top: 30px;
+}
+.pad-bottom  {
+	padding-bottom: 20px;
+}
+.pad-right  {
+	padding-right: 20px;
+}
+.pad-left  {
+	padding-left: 15px;
+}
+.contact-footer  {
+	background: url(../images/purpalt.png) repeat;
+	padding: 50px ;
+}
+.contact-timing  {
+	padding: 10px 30px 10px 10px;
+}
+.form-panel  {
+	padding: 50px 20px 40px 20px;
+}
+.show-panel  {
+	padding: 80px 20px 40px 20px;
+	margin-top: 120px;
+}
+.show-footer  {
+	margin-top: 40px;
+}
+.marquee  {
+	background-color: #34495E;
+	width: 100%;
+	color: white;
+	opacity: 0.7;
+	font-size: 20px;
+	font-family: 'Cormorant Garamond', serif;
+	padding: 8px 0px 8px 0px;
+}
+.notify  {
+	color: black;
+	font-size: 20px;
+	font-weight: 800;
+}
+@media(min-height: 600px) and (min-width: 360px) {
+	.intro-panel  {
+		height:700px;
+	}
+}
+@media (max-width:420px)  {
+	.button-kz  {
+		font-size: 10px;
+	}
+	.intro-text  {
+		font-size: 34px;
+	}
+	.transparent-div  {
+		margin-top: 30px;
+		padding: 10px 5px 20px 5px;
+	}
+	.better-font  {
+		font-size: 10px;
+		color: white;
+		padding: 0px 5px 0px 5px;
+	}
+	.overlay  {
+		padding: 20px 10px 20px 10px;
+	}
+	.intro-contact  {
+		/*background: url('../images/research-check.jpg') center center no-repeat fixed;*/
+		padding: 80px 0px 50px 0px;
+	}
+	.overlay  {
+		padding: -12px 5px 0px 5px;
+		margin-top: 60px;
+	}
+	
+	.intro-panel  {
+		padding: 120px 10px 0px 10px;
+		height: 600px;
+	}
+
+	.pad-top  {
+		margin-top: 60px;
+		padding-top: 60px;
+	}
+	.form-panel  {
+		padding: 20px 0px 20px 0px;
+	}
+}
