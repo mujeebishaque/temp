@@ -1,0 +1,29 @@
+::selection {
+  background-color: #2644bc;
+  color: #fff;
+}
+::-moz-selection {
+  background-color: #2644bc;
+  color: #fff;
+}
+
+
+.theme-color{
+  color: #2644bc;
+}
+
+.portfolio-filter li:hover,
+.portfolio-filter li.active,
+.m-btn-dark,
+.m-btn-white:hover,
+.feature-box:after,
+.section-title h2:after,
+.section-title p:after,
+.btn-theme,
+.theme-bg {
+  background: #2644bc;
+}
+
+.feature-box-02:hover{
+	border-color: #2644bc;
+}
